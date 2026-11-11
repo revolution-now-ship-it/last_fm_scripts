@@ -1,0 +1,6 @@
+api:
+  key: ""
+  user: ""
+
+output:
+  file: "loved_tracks.csv"
